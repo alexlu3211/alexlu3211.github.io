@@ -835,7 +835,7 @@ var JobDataProvider = (function () {
             currentSkills: skillsOwned,
             requiredSkills: selectedSkills
         };
-        return this.http.post('http://dreamgig.me:8000/api/v1/getSkills', body, { headers: headers })
+        return this.http.post('https://dreamgig.me:8000/api/v1/getSkills', body, { headers: headers })
             .map(function (res) { return res; });
         // return this.http.get('http://localhost:8000/api/v1/getList')
         //   .map((res:any) => res)
