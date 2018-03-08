@@ -807,7 +807,7 @@ var JobDataProvider = (function () {
     function JobDataProvider(http) {
         this.http = http;
         console.log('Hello JobDataProvider Provider');
-        this._url = "http://api.dataatwork.org/v1/jobs/";
+        this._url = "https://api.dataatwork.org/v1/jobs/";
     }
     JobDataProvider.prototype.getCityData = function () {
         return this.http.get("../../assets/data/cities.json")
@@ -835,7 +835,7 @@ var JobDataProvider = (function () {
             currentSkills: skillsOwned,
             requiredSkills: selectedSkills
         };
-        return this.http.post('http://0.0.0.0:8080/api/v1/getSkills', body, { headers: headers })
+        return this.http.post('http://dreamgig.me:8000/api/v1/getSkills', body, { headers: headers })
             .map(function (res) { return res; });
         // return this.http.get('http://localhost:8000/api/v1/getList')
         //   .map((res:any) => res)
