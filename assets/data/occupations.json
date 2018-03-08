@@ -1,0 +1,5552 @@
+[
+ {
+   "id": "13-2011.01",
+   "occupation": "Accountants",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "13-2011.00",
+   "occupation": "Accountants and Auditors",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "27-2011.00",
+   "occupation": "Actors",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "15-2011.00",
+   "occupation": "Actuaries",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "29-1199.01",
+   "occupation": "Acupuncturists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1141.01",
+   "occupation": "Acute Care Nurses",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "25-2059.01",
+   "occupation": "Adapted Physical Education Specialists",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "51-9191.00",
+   "occupation": "Adhesive Bonding Machine Operators and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "23-1021.00",
+   "occupation": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+   "group": "Legal"
+ },
+ {
+   "id": "11-3011.00",
+   "occupation": "Administrative Services Managers",
+   "group": "Management"
+ },
+ {
+   "id": "25-3011.00",
+   "occupation": "Adult Basic and Secondary Education and Literacy Teachers and Instructors",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "29-1141.02",
+   "occupation": "Advanced Practice Psychiatric Nurses",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "11-2011.00",
+   "occupation": "Advertising and Promotions Managers",
+   "group": "Management"
+ },
+ {
+   "id": "41-3011.00",
+   "occupation": "Advertising Sales Agents",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "17-3021.00",
+   "occupation": "Aerospace Engineering and Operations Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2011.00",
+   "occupation": "Aerospace Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "13-1011.00",
+   "occupation": "Agents and Business Managers of Artists, Performers, and Athletes",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "19-4011.00",
+   "occupation": "Agricultural and Food Science Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "17-2021.00",
+   "occupation": "Agricultural Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "45-2091.00",
+   "occupation": "Agricultural Equipment Operators",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "45-2011.00",
+   "occupation": "Agricultural Inspectors",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "25-1041.00",
+   "occupation": "Agricultural Sciences Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "19-4011.01",
+   "occupation": "Agricultural Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "45-2099.00",
+   "occupation": "Agricultural Workers, All Other",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "55-3011.00",
+   "occupation": "Air Crew Members",
+   "group": "Military Specific"
+ },
+ {
+   "id": "55-1011.00",
+   "occupation": "Air Crew Officers",
+   "group": "Military Specific"
+ },
+ {
+   "id": "53-2021.00",
+   "occupation": "Air Traffic Controllers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "53-1011.00",
+   "occupation": "Aircraft Cargo Handling Supervisors",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "55-1012.00",
+   "occupation": "Aircraft Launch and Recovery Officers",
+   "group": "Military Specific"
+ },
+ {
+   "id": "55-3012.00",
+   "occupation": "Aircraft Launch and Recovery Specialists",
+   "group": "Military Specific"
+ },
+ {
+   "id": "49-3011.00",
+   "occupation": "Aircraft Mechanics and Service Technicians",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "51-2011.00",
+   "occupation": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+   "group": "Production"
+ },
+ {
+   "id": "53-2022.00",
+   "occupation": "Airfield Operations Specialists",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "53-2011.00",
+   "occupation": "Airline Pilots, Copilots, and Flight Engineers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "29-1069.01",
+   "occupation": "Allergists and Immunologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "53-3011.00",
+   "occupation": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "39-3091.00",
+   "occupation": "Amusement and Recreation Attendants",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "29-1071.01",
+   "occupation": "Anesthesiologist Assistants",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1061.00",
+   "occupation": "Anesthesiologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "45-2021.00",
+   "occupation": "Animal Breeders",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "33-9011.00",
+   "occupation": "Animal Control Workers",
+   "group": "Protective Service"
+ },
+ {
+   "id": "19-1011.00",
+   "occupation": "Animal Scientists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "39-2011.00",
+   "occupation": "Animal Trainers",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "19-3091.01",
+   "occupation": "Anthropologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-3091.00",
+   "occupation": "Anthropologists and Archeologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "25-1061.00",
+   "occupation": "Anthropology and Archeology Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "13-2021.00",
+   "occupation": "Appraisers and Assessors of Real Estate",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "13-2021.02",
+   "occupation": "Appraisers, Real Estate",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "11-9013.03",
+   "occupation": "Aquacultural Managers",
+   "group": "Management"
+ },
+ {
+   "id": "23-1022.00",
+   "occupation": "Arbitrators, Mediators, and Conciliators",
+   "group": "Legal"
+ },
+ {
+   "id": "19-3091.02",
+   "occupation": "Archeologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "17-1011.00",
+   "occupation": "Architects, Except Landscape and Naval",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3011.00",
+   "occupation": "Architectural and Civil Drafters",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "11-9041.00",
+   "occupation": "Architectural and Engineering Managers",
+   "group": "Management"
+ },
+ {
+   "id": "17-3011.01",
+   "occupation": "Architectural Drafters",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "25-1031.00",
+   "occupation": "Architecture Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "25-4011.00",
+   "occupation": "Archivists",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "25-1062.00",
+   "occupation": "Area, Ethnic, and Cultural Studies Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "55-3013.00",
+   "occupation": "Armored Assault Vehicle Crew Members",
+   "group": "Military Specific"
+ },
+ {
+   "id": "55-1013.00",
+   "occupation": "Armored Assault Vehicle Officers",
+   "group": "Military Specific"
+ },
+ {
+   "id": "27-1011.00",
+   "occupation": "Art Directors",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "29-1125.01",
+   "occupation": "Art Therapists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "25-1121.00",
+   "occupation": "Art, Drama, and Music Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "55-3014.00",
+   "occupation": "Artillery and Missile Crew Members",
+   "group": "Military Specific"
+ },
+ {
+   "id": "55-1014.00",
+   "occupation": "Artillery and Missile Officers",
+   "group": "Military Specific"
+ },
+ {
+   "id": "27-1019.00",
+   "occupation": "Artists and Related Workers, All Other",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "51-2099.00",
+   "occupation": "Assemblers and Fabricators, All Other",
+   "group": "Production"
+ },
+ {
+   "id": "13-2021.01",
+   "occupation": "Assessors",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "19-2011.00",
+   "occupation": "Astronomers",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "27-2021.00",
+   "occupation": "Athletes and Sports Competitors",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "29-9091.00",
+   "occupation": "Athletic Trainers",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "19-2021.00",
+   "occupation": "Atmospheric and Space Scientists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "25-1051.00",
+   "occupation": "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "27-4011.00",
+   "occupation": "Audio and Video Equipment Technicians",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "25-9011.00",
+   "occupation": "Audio-Visual and Multimedia Collections Specialists",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "29-1181.00",
+   "occupation": "Audiologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "13-2011.02",
+   "occupation": "Auditors",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "53-6031.00",
+   "occupation": "Automotive and Watercraft Service Attendants",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "49-3021.00",
+   "occupation": "Automotive Body and Related Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "17-3027.01",
+   "occupation": "Automotive Engineering Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2141.02",
+   "occupation": "Automotive Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "49-3022.00",
+   "occupation": "Automotive Glass Installers and Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "49-3023.01",
+   "occupation": "Automotive Master Mechanics",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "49-3023.00",
+   "occupation": "Automotive Service Technicians and Mechanics",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "49-3023.02",
+   "occupation": "Automotive Specialty Technicians",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "53-6051.01",
+   "occupation": "Aviation Inspectors",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "49-2091.00",
+   "occupation": "Avionics Technicians",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "39-6011.00",
+   "occupation": "Baggage Porters and Bellhops",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "33-3011.00",
+   "occupation": "Bailiffs",
+   "group": "Protective Service"
+ },
+ {
+   "id": "51-3011.00",
+   "occupation": "Bakers",
+   "group": "Production"
+ },
+ {
+   "id": "39-5011.00",
+   "occupation": "Barbers",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "35-3022.01",
+   "occupation": "Baristas",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "35-3011.00",
+   "occupation": "Bartenders",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "49-3091.00",
+   "occupation": "Bicycle Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "43-3011.00",
+   "occupation": "Bill and Account Collectors",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-3021.00",
+   "occupation": "Billing and Posting Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-3021.02",
+   "occupation": "Billing, Cost, and Rate Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "17-2199.01",
+   "occupation": "Biochemical Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "19-1021.00",
+   "occupation": "Biochemists and Biophysicists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "51-8099.01",
+   "occupation": "Biofuels Processing Technicians",
+   "group": "Production"
+ },
+ {
+   "id": "11-3051.03",
+   "occupation": "Biofuels Production Managers",
+   "group": "Management"
+ },
+ {
+   "id": "11-9041.01",
+   "occupation": "Biofuels/Biodiesel Technology and Product Development Managers",
+   "group": "Management"
+ },
+ {
+   "id": "19-1029.01",
+   "occupation": "Bioinformatics Scientists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "43-9111.01",
+   "occupation": "Bioinformatics Technicians",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "25-1042.00",
+   "occupation": "Biological Science Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "19-1029.00",
+   "occupation": "Biological Scientists, All Other",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-4021.00",
+   "occupation": "Biological Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-1020.01",
+   "occupation": "Biologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "51-8099.03",
+   "occupation": "Biomass Plant Technicians",
+   "group": "Production"
+ },
+ {
+   "id": "11-3051.04",
+   "occupation": "Biomass Power Plant Managers",
+   "group": "Management"
+ },
+ {
+   "id": "17-2031.00",
+   "occupation": "Biomedical Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "15-2041.01",
+   "occupation": "Biostatisticians",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "47-2011.00",
+   "occupation": "Boilermakers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "43-3031.00",
+   "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "47-2021.00",
+   "occupation": "Brickmasons and Blockmasons",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "53-6011.00",
+   "occupation": "Bridge and Lock Tenders",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "27-3021.00",
+   "occupation": "Broadcast News Analysts",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "27-4012.00",
+   "occupation": "Broadcast Technicians",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "43-4011.00",
+   "occupation": "Brokerage Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "11-9199.11",
+   "occupation": "Brownfield Redevelopment Specialists and Site Managers",
+   "group": "Management"
+ },
+ {
+   "id": "13-2031.00",
+   "occupation": "Budget Analysts",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "37-2019.00",
+   "occupation": "Building Cleaning Workers, All Other",
+   "group": "Building and Grounds Cleaning and Maintenance"
+ },
+ {
+   "id": "49-3031.00",
+   "occupation": "Bus and Truck Mechanics and Diesel Engine Specialists",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "53-3022.00",
+   "occupation": "Bus Drivers, School or Special Client",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "53-3021.00",
+   "occupation": "Bus Drivers, Transit and Intercity",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "13-1199.04",
+   "occupation": "Business Continuity Planners",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "15-1199.08",
+   "occupation": "Business Intelligence Analysts",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "13-1199.00",
+   "occupation": "Business Operations Specialists, All Other",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "25-1011.00",
+   "occupation": "Business Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "51-3021.00",
+   "occupation": "Butchers and Meat Cutters",
+   "group": "Production"
+ },
+ {
+   "id": "13-1021.00",
+   "occupation": "Buyers and Purchasing Agents, Farm Products",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "51-7011.00",
+   "occupation": "Cabinetmakers and Bench Carpenters",
+   "group": "Production"
+ },
+ {
+   "id": "49-9061.00",
+   "occupation": "Camera and Photographic Equipment Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "27-4031.00",
+   "occupation": "Camera Operators, Television, Video, and Motion Picture",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "53-5021.00",
+   "occupation": "Captains, Mates, and Pilots of Water Vessels",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "29-2031.00",
+   "occupation": "Cardiovascular Technologists and Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "25-2023.00",
+   "occupation": "Career/Technical Education Teachers, Middle School",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "25-2032.00",
+   "occupation": "Career/Technical Education Teachers, Secondary School",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "43-5011.00",
+   "occupation": "Cargo and Freight Agents",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "47-2031.00",
+   "occupation": "Carpenters",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-2041.00",
+   "occupation": "Carpet Installers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "17-1021.00",
+   "occupation": "Cartographers and Photogrammetrists",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "41-2011.00",
+   "occupation": "Cashiers",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "47-2051.00",
+   "occupation": "Cement Masons and Concrete Finishers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "35-1011.00",
+   "occupation": "Chefs and Head Cooks",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "17-2041.00",
+   "occupation": "Chemical Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "51-9011.00",
+   "occupation": "Chemical Equipment Operators and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "51-8091.00",
+   "occupation": "Chemical Plant and System Operators",
+   "group": "Production"
+ },
+ {
+   "id": "19-4031.00",
+   "occupation": "Chemical Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "25-1052.00",
+   "occupation": "Chemistry Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "19-2031.00",
+   "occupation": "Chemists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "11-1011.00",
+   "occupation": "Chief Executives",
+   "group": "Management"
+ },
+ {
+   "id": "11-1011.03",
+   "occupation": "Chief Sustainability Officers",
+   "group": "Management"
+ },
+ {
+   "id": "21-1021.00",
+   "occupation": "Child, Family, and School Social Workers",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "39-9011.00",
+   "occupation": "Childcare Workers",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "29-1011.00",
+   "occupation": "Chiropractors",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "27-2032.00",
+   "occupation": "Choreographers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "19-4061.01",
+   "occupation": "City and Regional Planning Aides",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "17-3011.02",
+   "occupation": "Civil Drafters",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3022.00",
+   "occupation": "Civil Engineering Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2051.00",
+   "occupation": "Civil Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "13-1031.00",
+   "occupation": "Claims Adjusters, Examiners, and Investigators",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "13-1031.01",
+   "occupation": "Claims Examiners, Property and Casualty Insurance",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "53-7061.00",
+   "occupation": "Cleaners of Vehicles and Equipment",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "51-9192.00",
+   "occupation": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "21-2011.00",
+   "occupation": "Clergy",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "19-2041.01",
+   "occupation": "Climate Change Analysts",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "15-2041.02",
+   "occupation": "Clinical Data Managers",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "29-1141.04",
+   "occupation": "Clinical Nurse Specialists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "19-3031.02",
+   "occupation": "Clinical Psychologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "11-9121.01",
+   "occupation": "Clinical Research Coordinators",
+   "group": "Management"
+ },
+ {
+   "id": "19-3031.00",
+   "occupation": "Clinical, Counseling, and School Psychologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "27-2022.00",
+   "occupation": "Coaches and Scouts",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "51-9121.00",
+   "occupation": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "51-2021.00",
+   "occupation": "Coil Winders, Tapers, and Finishers",
+   "group": "Production"
+ },
+ {
+   "id": "49-9091.00",
+   "occupation": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "35-3021.00",
+   "occupation": "Combined Food Preparation and Serving Workers, Including Fast Food",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "55-1015.00",
+   "occupation": "Command and Control Center Officers",
+   "group": "Military Specific"
+ },
+ {
+   "id": "55-3015.00",
+   "occupation": "Command and Control Center Specialists",
+   "group": "Military Specific"
+ },
+ {
+   "id": "27-1021.00",
+   "occupation": "Commercial and Industrial Designers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "49-9092.00",
+   "occupation": "Commercial Divers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "53-2012.00",
+   "occupation": "Commercial Pilots",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "43-2099.00",
+   "occupation": "Communications Equipment Operators, All Other",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "25-1122.00",
+   "occupation": "Communications Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "21-1099.00",
+   "occupation": "Community and Social Service Specialists, All Other",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "21-1094.00",
+   "occupation": "Community Health Workers",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "11-3111.00",
+   "occupation": "Compensation and Benefits Managers",
+   "group": "Management"
+ },
+ {
+   "id": "13-1141.00",
+   "occupation": "Compensation, Benefits, and Job Analysis Specialists",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "11-9199.02",
+   "occupation": "Compliance Managers",
+   "group": "Management"
+ },
+ {
+   "id": "13-1041.00",
+   "occupation": "Compliance Officers",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "15-1111.00",
+   "occupation": "Computer and Information Research Scientists",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "11-3021.00",
+   "occupation": "Computer and Information Systems Managers",
+   "group": "Management"
+ },
+ {
+   "id": "17-2061.00",
+   "occupation": "Computer Hardware Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "15-1143.00",
+   "occupation": "Computer Network Architects",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "15-1152.00",
+   "occupation": "Computer Network Support Specialists",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "51-4012.00",
+   "occupation": "Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "15-1199.00",
+   "occupation": "Computer Occupations, All Other",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "43-9011.00",
+   "occupation": "Computer Operators",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "15-1131.00",
+   "occupation": "Computer Programmers",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "25-1021.00",
+   "occupation": "Computer Science Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "15-1121.00",
+   "occupation": "Computer Systems Analysts",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "15-1199.02",
+   "occupation": "Computer Systems Engineers/Architects",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "15-1151.00",
+   "occupation": "Computer User Support Specialists",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "49-2011.00",
+   "occupation": "Computer, Automated Teller, and Office Machine Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "51-4011.00",
+   "occupation": "Computer-Controlled Machine Tool Operators, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "39-6012.00",
+   "occupation": "Concierges",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "19-1031.00",
+   "occupation": "Conservation Scientists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "47-4011.00",
+   "occupation": "Construction and Building Inspectors",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-4099.00",
+   "occupation": "Construction and Related Workers, All Other",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-2031.01",
+   "occupation": "Construction Carpenters",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-2061.00",
+   "occupation": "Construction Laborers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "11-9021.00",
+   "occupation": "Construction Managers",
+   "group": "Management"
+ },
+ {
+   "id": "47-5041.00",
+   "occupation": "Continuous Mining Machine Operators",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "49-9012.00",
+   "occupation": "Control and Valve Installers and Repairers, Except Mechanical Door",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "53-7011.00",
+   "occupation": "Conveyor Operators and Tenders",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "35-2019.00",
+   "occupation": "Cooks, All Other",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "35-2011.00",
+   "occupation": "Cooks, Fast Food",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "35-2012.00",
+   "occupation": "Cooks, Institution and Cafeteria",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "35-2013.00",
+   "occupation": "Cooks, Private Household",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "35-2014.00",
+   "occupation": "Cooks, Restaurant",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "35-2015.00",
+   "occupation": "Cooks, Short Order",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "51-9193.00",
+   "occupation": "Cooling and Freezing Equipment Operators and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "27-3043.04",
+   "occupation": "Copy Writers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "13-1041.06",
+   "occupation": "Coroners",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "33-3012.00",
+   "occupation": "Correctional Officers and Jailers",
+   "group": "Protective Service"
+ },
+ {
+   "id": "43-4021.00",
+   "occupation": "Correspondence Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "13-1051.00",
+   "occupation": "Cost Estimators",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "39-3092.00",
+   "occupation": "Costume Attendants",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "19-3031.03",
+   "occupation": "Counseling Psychologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "21-1019.00",
+   "occupation": "Counselors, All Other",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "41-2021.00",
+   "occupation": "Counter and Rental Clerks",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "35-3022.00",
+   "occupation": "Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "43-5021.00",
+   "occupation": "Couriers and Messengers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-4031.01",
+   "occupation": "Court Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "23-2091.00",
+   "occupation": "Court Reporters",
+   "group": "Legal"
+ },
+ {
+   "id": "43-4031.00",
+   "occupation": "Court, Municipal, and License Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "27-1012.00",
+   "occupation": "Craft Artists",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "53-7021.00",
+   "occupation": "Crane and Tower Operators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "13-2041.00",
+   "occupation": "Credit Analysts",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "43-4041.01",
+   "occupation": "Credit Authorizers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-4041.00",
+   "occupation": "Credit Authorizers, Checkers, and Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-4041.02",
+   "occupation": "Credit Checkers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "13-2071.00",
+   "occupation": "Credit Counselors",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "33-3021.03",
+   "occupation": "Criminal Investigators and Special Agents",
+   "group": "Protective Service"
+ },
+ {
+   "id": "25-1111.00",
+   "occupation": "Criminal Justice and Law Enforcement Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "29-1141.03",
+   "occupation": "Critical Care Nurses",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "33-9091.00",
+   "occupation": "Crossing Guards",
+   "group": "Protective Service"
+ },
+ {
+   "id": "51-9021.00",
+   "occupation": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "25-4012.00",
+   "occupation": "Curators",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "43-4051.00",
+   "occupation": "Customer Service Representatives",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "13-1199.03",
+   "occupation": "Customs Brokers",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "51-9031.00",
+   "occupation": "Cutters and Trimmers, Hand",
+   "group": "Production"
+ },
+ {
+   "id": "51-9032.00",
+   "occupation": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "51-4031.00",
+   "occupation": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "29-2011.01",
+   "occupation": "Cytogenetic Technologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-2011.02",
+   "occupation": "Cytotechnologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "27-2031.00",
+   "occupation": "Dancers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "43-9021.00",
+   "occupation": "Data Entry Keyers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "15-1199.07",
+   "occupation": "Data Warehousing Specialists",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "15-1141.00",
+   "occupation": "Database Administrators",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "15-1199.06",
+   "occupation": "Database Architects",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "41-9011.00",
+   "occupation": "Demonstrators and Product Promoters",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "31-9091.00",
+   "occupation": "Dental Assistants",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "29-2021.00",
+   "occupation": "Dental Hygienists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "51-9081.00",
+   "occupation": "Dental Laboratory Technicians",
+   "group": "Production"
+ },
+ {
+   "id": "29-1029.00",
+   "occupation": "Dentists, All Other Specialists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1021.00",
+   "occupation": "Dentists, General",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1069.02",
+   "occupation": "Dermatologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "47-5011.00",
+   "occupation": "Derrick Operators, Oil and Gas",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "27-1029.00",
+   "occupation": "Designers, All Other",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "43-9031.00",
+   "occupation": "Desktop Publishers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "33-3021.00",
+   "occupation": "Detectives and Criminal Investigators",
+   "group": "Protective Service"
+ },
+ {
+   "id": "29-2032.00",
+   "occupation": "Diagnostic Medical Sonographers",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-2051.00",
+   "occupation": "Dietetic Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1031.00",
+   "occupation": "Dietitians and Nutritionists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "35-9011.00",
+   "occupation": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "21-2021.00",
+   "occupation": "Directors, Religious Activities and Education",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "27-2012.02",
+   "occupation": "Directors- Stage, Motion Pictures, Television, and Radio",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "35-9021.00",
+   "occupation": "Dishwashers",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "43-5032.00",
+   "occupation": "Dispatchers, Except Police, Fire, and Ambulance",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "11-9039.01",
+   "occupation": "Distance Learning Coordinators",
+   "group": "Management"
+ },
+ {
+   "id": "15-1199.12",
+   "occupation": "Document Management Specialists",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "41-9091.00",
+   "occupation": "Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "17-3019.00",
+   "occupation": "Drafters, All Other",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "53-7031.00",
+   "occupation": "Dredge Operators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "51-4032.00",
+   "occupation": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "53-3031.00",
+   "occupation": "Driver/Sales Workers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "47-2081.00",
+   "occupation": "Drywall and Ceiling Tile Installers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-5021.00",
+   "occupation": "Earth Drillers, Except Oil and Gas",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "25-1063.00",
+   "occupation": "Economics Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "19-3011.00",
+   "occupation": "Economists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "27-3041.00",
+   "occupation": "Editors",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "11-9039.00",
+   "occupation": "Education Administrators, All Other",
+   "group": "Management"
+ },
+ {
+   "id": "11-9032.00",
+   "occupation": "Education Administrators, Elementary and Secondary School",
+   "group": "Management"
+ },
+ {
+   "id": "11-9033.00",
+   "occupation": "Education Administrators, Postsecondary",
+   "group": "Management"
+ },
+ {
+   "id": "11-9031.00",
+   "occupation": "Education Administrators, Preschool and Childcare Center/Program",
+   "group": "Management"
+ },
+ {
+   "id": "25-1081.00",
+   "occupation": "Education Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "25-9099.00",
+   "occupation": "Education, Training, and Library Workers, All Other",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "21-1012.00",
+   "occupation": "Educational, Guidance, School, and Vocational Counselors",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "49-2092.00",
+   "occupation": "Electric Motor, Power Tool, and Related Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "17-3023.00",
+   "occupation": "Electrical and Electronic Engineering Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "51-2022.00",
+   "occupation": "Electrical and Electronic Equipment Assemblers",
+   "group": "Production"
+ },
+ {
+   "id": "17-3012.00",
+   "occupation": "Electrical and Electronics Drafters",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "49-2093.00",
+   "occupation": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "49-2094.00",
+   "occupation": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "49-2095.00",
+   "occupation": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "17-3012.02",
+   "occupation": "Electrical Drafters",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3023.03",
+   "occupation": "Electrical Engineering Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3029.02",
+   "occupation": "Electrical Engineering Technologists",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2071.00",
+   "occupation": "Electrical Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "49-9051.00",
+   "occupation": "Electrical Power-Line Installers and Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "47-2111.00",
+   "occupation": "Electricians",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "17-3024.00",
+   "occupation": "Electro-Mechanical Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3029.03",
+   "occupation": "Electromechanical Engineering Technologists",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "51-2023.00",
+   "occupation": "Electromechanical Equipment Assemblers",
+   "group": "Production"
+ },
+ {
+   "id": "17-3012.01",
+   "occupation": "Electronic Drafters",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "49-2096.00",
+   "occupation": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "49-2097.00",
+   "occupation": "Electronic Home Entertainment Equipment Installers and Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "17-3023.01",
+   "occupation": "Electronics Engineering Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3029.04",
+   "occupation": "Electronics Engineering Technologists",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2072.00",
+   "occupation": "Electronics Engineers, Except Computer",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "25-2021.00",
+   "occupation": "Elementary School Teachers, Except Special Education",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "47-4021.00",
+   "occupation": "Elevator Installers and Repairers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "43-4061.00",
+   "occupation": "Eligibility Interviewers, Government Programs",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "39-4011.00",
+   "occupation": "Embalmers",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "11-9161.00",
+   "occupation": "Emergency Management Directors",
+   "group": "Management"
+ },
+ {
+   "id": "29-2041.00",
+   "occupation": "Emergency Medical Technicians and Paramedics",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "31-9099.02",
+   "occupation": "Endoscopy Technicians",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "13-1199.01",
+   "occupation": "Energy Auditors",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "41-3099.01",
+   "occupation": "Energy Brokers",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "17-2199.03",
+   "occupation": "Energy Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "51-2031.00",
+   "occupation": "Engine and Other Machine Assemblers",
+   "group": "Production"
+ },
+ {
+   "id": "25-1032.00",
+   "occupation": "Engineering Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "17-3029.00",
+   "occupation": "Engineering Technicians, Except Drafters, All Other",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2199.00",
+   "occupation": "Engineers, All Other",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "25-1123.00",
+   "occupation": "English Language and Literature Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "27-2099.00",
+   "occupation": "Entertainers and Performers, Sports and Related Workers, All Other",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "39-3099.00",
+   "occupation": "Entertainment Attendants and Related Workers, All Other",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "13-1041.01",
+   "occupation": "Environmental Compliance Inspectors",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "19-3011.01",
+   "occupation": "Environmental Economists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "17-3025.00",
+   "occupation": "Environmental Engineering Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2081.00",
+   "occupation": "Environmental Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "19-2041.02",
+   "occupation": "Environmental Restoration Planners",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-4091.00",
+   "occupation": "Environmental Science and Protection Technicians, Including Health",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "25-1053.00",
+   "occupation": "Environmental Science Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "19-2041.00",
+   "occupation": "Environmental Scientists and Specialists, Including Health",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-1041.00",
+   "occupation": "Epidemiologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "13-1041.03",
+   "occupation": "Equal Opportunity Representatives and Officers",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "51-9194.00",
+   "occupation": "Etchers and Engravers",
+   "group": "Production"
+ },
+ {
+   "id": "53-7032.00",
+   "occupation": "Excavating and Loading Machine and Dragline Operators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "43-6011.00",
+   "occupation": "Executive Secretaries and Executive Administrative Assistants",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "29-1128.00",
+   "occupation": "Exercise Physiologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "47-5031.00",
+   "occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-5099.00",
+   "occupation": "Extraction Workers, All Other",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-4021.00",
+   "occupation": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "51-6091.00",
+   "occupation": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+   "group": "Production"
+ },
+ {
+   "id": "51-9041.00",
+   "occupation": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "51-6092.00",
+   "occupation": "Fabric and Apparel Patternmakers",
+   "group": "Production"
+ },
+ {
+   "id": "49-9093.00",
+   "occupation": "Fabric Menders, Except Garment",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "45-4021.00",
+   "occupation": "Fallers",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "29-1062.00",
+   "occupation": "Family and General Practitioners",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "25-9021.00",
+   "occupation": "Farm and Home Management Advisors",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "11-9013.02",
+   "occupation": "Farm and Ranch Managers",
+   "group": "Management"
+ },
+ {
+   "id": "49-3041.00",
+   "occupation": "Farm Equipment Mechanics and Service Technicians",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "13-1074.00",
+   "occupation": "Farm Labor Contractors",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "11-9013.00",
+   "occupation": "Farmers, Ranchers, and Other Agricultural Managers",
+   "group": "Management"
+ },
+ {
+   "id": "45-2092.02",
+   "occupation": "Farmworkers and Laborers, Crop",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "45-2092.00",
+   "occupation": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "45-2093.00",
+   "occupation": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "27-1022.00",
+   "occupation": "Fashion Designers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "47-4031.00",
+   "occupation": "Fence Erectors",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-2091.00",
+   "occupation": "Fiberglass Laminators and Fabricators",
+   "group": "Production"
+ },
+ {
+   "id": "43-4071.00",
+   "occupation": "File Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "27-4032.00",
+   "occupation": "Film and Video Editors",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "13-2051.00",
+   "occupation": "Financial Analysts",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "43-3099.00",
+   "occupation": "Financial Clerks, All Other",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "13-2061.00",
+   "occupation": "Financial Examiners",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "11-3031.00",
+   "occupation": "Financial Managers",
+   "group": "Management"
+ },
+ {
+   "id": "11-3031.02",
+   "occupation": "Financial Managers, Branch or Department",
+   "group": "Management"
+ },
+ {
+   "id": "13-2099.01",
+   "occupation": "Financial Quantitative Analysts",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "13-2099.00",
+   "occupation": "Financial Specialists, All Other",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "27-1013.00",
+   "occupation": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "33-2021.01",
+   "occupation": "Fire Inspectors",
+   "group": "Protective Service"
+ },
+ {
+   "id": "33-2021.00",
+   "occupation": "Fire Inspectors and Investigators",
+   "group": "Protective Service"
+ },
+ {
+   "id": "33-2021.02",
+   "occupation": "Fire Investigators",
+   "group": "Protective Service"
+ },
+ {
+   "id": "17-2111.02",
+   "occupation": "Fire-Prevention and Protection Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "33-2011.00",
+   "occupation": "Firefighters",
+   "group": "Protective Service"
+ },
+ {
+   "id": "45-1011.07",
+   "occupation": "First-Line Supervisors of Agricultural Crop and Horticultural Workers",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "55-2011.00",
+   "occupation": "First-Line Supervisors of Air Crew Members",
+   "group": "Military Specific"
+ },
+ {
+   "id": "55-2013.00",
+   "occupation": "First-Line Supervisors of All Other Tactical Operations Specialists",
+   "group": "Military Specific"
+ },
+ {
+   "id": "45-1011.08",
+   "occupation": "First-Line Supervisors of Animal Husbandry and Animal Care Workers",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "45-1011.06",
+   "occupation": "First-Line Supervisors of Aquacultural Workers",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "47-1011.00",
+   "occupation": "First-Line Supervisors of Construction Trades and Extraction Workers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "33-1011.00",
+   "occupation": "First-Line Supervisors of Correctional Officers",
+   "group": "Protective Service"
+ },
+ {
+   "id": "45-1011.00",
+   "occupation": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "33-1021.00",
+   "occupation": "First-Line Supervisors of Fire Fighting and Prevention Workers",
+   "group": "Protective Service"
+ },
+ {
+   "id": "35-1012.00",
+   "occupation": "First-Line Supervisors of Food Preparation and Serving Workers",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "53-1021.00",
+   "occupation": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "37-1011.00",
+   "occupation": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+   "group": "Building and Grounds Cleaning and Maintenance"
+ },
+ {
+   "id": "37-1012.00",
+   "occupation": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+   "group": "Building and Grounds Cleaning and Maintenance"
+ },
+ {
+   "id": "45-1011.05",
+   "occupation": "First-Line Supervisors of Logging Workers",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "49-1011.00",
+   "occupation": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "41-1012.00",
+   "occupation": "First-Line Supervisors of Non-Retail Sales Workers",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "43-1011.00",
+   "occupation": "First-Line Supervisors of Office and Administrative Support Workers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "39-1021.00",
+   "occupation": "First-Line Supervisors of Personal Service Workers",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "33-1012.00",
+   "occupation": "First-Line Supervisors of Police and Detectives",
+   "group": "Protective Service"
+ },
+ {
+   "id": "51-1011.00",
+   "occupation": "First-Line Supervisors of Production and Operating Workers",
+   "group": "Production"
+ },
+ {
+   "id": "33-1099.00",
+   "occupation": "First-Line Supervisors of Protective Service Workers, All Other",
+   "group": "Protective Service"
+ },
+ {
+   "id": "41-1011.00",
+   "occupation": "First-Line Supervisors of Retail Sales Workers",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "53-1031.00",
+   "occupation": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "55-2012.00",
+   "occupation": "First-Line Supervisors of Weapons Specialists/Crew Members",
+   "group": "Military Specific"
+ },
+ {
+   "id": "33-3031.00",
+   "occupation": "Fish and Game Wardens",
+   "group": "Protective Service"
+ },
+ {
+   "id": "45-3011.00",
+   "occupation": "Fishers and Related Fishing Workers",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "11-9039.02",
+   "occupation": "Fitness and Wellness Coordinators",
+   "group": "Management"
+ },
+ {
+   "id": "39-9031.00",
+   "occupation": "Fitness Trainers and Aerobics Instructors",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "53-2031.00",
+   "occupation": "Flight Attendants",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "47-2042.00",
+   "occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-2043.00",
+   "occupation": "Floor Sanders and Finishers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "27-1023.00",
+   "occupation": "Floral Designers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "51-3091.00",
+   "occupation": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "51-3092.00",
+   "occupation": "Food Batchmakers",
+   "group": "Production"
+ },
+ {
+   "id": "51-3093.00",
+   "occupation": "Food Cooking Machine Operators and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "35-9099.00",
+   "occupation": "Food Preparation and Serving Related Workers, All Other",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "35-2021.00",
+   "occupation": "Food Preparation Workers",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "51-3099.00",
+   "occupation": "Food Processing Workers, All Other",
+   "group": "Production"
+ },
+ {
+   "id": "19-4011.02",
+   "occupation": "Food Science Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-1012.00",
+   "occupation": "Food Scientists and Technologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "35-3041.00",
+   "occupation": "Food Servers, Nonrestaurant",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "11-9051.00",
+   "occupation": "Food Service Managers",
+   "group": "Management"
+ },
+ {
+   "id": "25-1124.00",
+   "occupation": "Foreign Language and Literature Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "19-4092.00",
+   "occupation": "Forensic Science Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-4093.00",
+   "occupation": "Forest and Conservation Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "45-4011.00",
+   "occupation": "Forest and Conservation Workers",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "33-1021.02",
+   "occupation": "Forest Fire Fighting and Prevention Supervisors",
+   "group": "Protective Service"
+ },
+ {
+   "id": "33-2022.00",
+   "occupation": "Forest Fire Inspectors and Prevention Specialists",
+   "group": "Protective Service"
+ },
+ {
+   "id": "33-2011.02",
+   "occupation": "Forest Firefighters",
+   "group": "Protective Service"
+ },
+ {
+   "id": "19-1032.00",
+   "occupation": "Foresters",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "25-1043.00",
+   "occupation": "Forestry and Conservation Science Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "51-4022.00",
+   "occupation": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "51-4071.00",
+   "occupation": "Foundry Mold and Coremakers",
+   "group": "Production"
+ },
+ {
+   "id": "13-2099.04",
+   "occupation": "Fraud Examiners, Investigators and Analysts",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "53-6051.08",
+   "occupation": "Freight and Cargo Inspectors",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "43-5011.01",
+   "occupation": "Freight Forwarders",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "17-2141.01",
+   "occupation": "Fuel Cell Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3029.10",
+   "occupation": "Fuel Cell Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "13-1131.00",
+   "occupation": "Fundraisers",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "39-4021.00",
+   "occupation": "Funeral Attendants",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "11-9061.00",
+   "occupation": "Funeral Service Managers",
+   "group": "Management"
+ },
+ {
+   "id": "51-9051.00",
+   "occupation": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "51-7021.00",
+   "occupation": "Furniture Finishers",
+   "group": "Production"
+ },
+ {
+   "id": "39-3012.00",
+   "occupation": "Gaming and Sports Book Writers and Runners",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "43-3041.00",
+   "occupation": "Gaming Cage Workers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "41-2012.00",
+   "occupation": "Gaming Change Persons and Booth Cashiers",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "39-3011.00",
+   "occupation": "Gaming Dealers",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "11-9071.00",
+   "occupation": "Gaming Managers",
+   "group": "Management"
+ },
+ {
+   "id": "39-3019.00",
+   "occupation": "Gaming Service Workers, All Other",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "39-1011.00",
+   "occupation": "Gaming Supervisors",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "33-9031.00",
+   "occupation": "Gaming Surveillance Officers and Gaming Investigators",
+   "group": "Protective Service"
+ },
+ {
+   "id": "53-7071.00",
+   "occupation": "Gas Compressor and Gas Pumping Station Operators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "51-8092.00",
+   "occupation": "Gas Plant Operators",
+   "group": "Production"
+ },
+ {
+   "id": "51-9071.06",
+   "occupation": "Gem and Diamond Workers",
+   "group": "Production"
+ },
+ {
+   "id": "11-1021.00",
+   "occupation": "General and Operations Managers",
+   "group": "Management"
+ },
+ {
+   "id": "29-9092.00",
+   "occupation": "Genetic Counselors",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "19-1029.03",
+   "occupation": "Geneticists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "17-1022.01",
+   "occupation": "Geodetic Surveyors",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "19-3092.00",
+   "occupation": "Geographers",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "15-1199.05",
+   "occupation": "Geographic Information Systems Technicians",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "25-1064.00",
+   "occupation": "Geography Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "19-4041.00",
+   "occupation": "Geological and Petroleum Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-4041.02",
+   "occupation": "Geological Sample Test Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-4041.01",
+   "occupation": "Geophysical Data Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-2042.00",
+   "occupation": "Geoscientists, Except Hydrologists and Geographers",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "15-1199.04",
+   "occupation": "Geospatial Information Scientists and Technologists",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "11-3051.02",
+   "occupation": "Geothermal Production Managers",
+   "group": "Management"
+ },
+ {
+   "id": "49-9099.01",
+   "occupation": "Geothermal Technicians",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "51-9195.04",
+   "occupation": "Glass Blowers, Molders, Benders, and Finishers",
+   "group": "Production"
+ },
+ {
+   "id": "47-2121.00",
+   "occupation": "Glaziers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "13-1041.04",
+   "occupation": "Government Property Inspectors and Investigators",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "45-2041.00",
+   "occupation": "Graders and Sorters, Agricultural Products",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "25-1191.00",
+   "occupation": "Graduate Teaching Assistants",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "27-1024.00",
+   "occupation": "Graphic Designers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "11-2011.01",
+   "occupation": "Green Marketers",
+   "group": "Management"
+ },
+ {
+   "id": "51-9022.00",
+   "occupation": "Grinding and Polishing Workers, Hand",
+   "group": "Production"
+ },
+ {
+   "id": "51-4033.00",
+   "occupation": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "37-3019.00",
+   "occupation": "Grounds Maintenance Workers, All Other",
+   "group": "Building and Grounds Cleaning and Maintenance"
+ },
+ {
+   "id": "39-5012.00",
+   "occupation": "Hairdressers, Hairstylists, and Cosmetologists",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "47-4041.00",
+   "occupation": "Hazardous Materials Removal Workers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "17-2111.00",
+   "occupation": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "29-1199.00",
+   "occupation": "Health Diagnosing and Treating Practitioners, All Other",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "21-1091.00",
+   "occupation": "Health Educators",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "25-1071.00",
+   "occupation": "Health Specialties Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "29-2099.00",
+   "occupation": "Health Technologists and Technicians, All Other",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-9099.00",
+   "occupation": "Healthcare Practitioners and Technical Workers, All Other",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "21-1022.00",
+   "occupation": "Healthcare Social Workers",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "31-9099.00",
+   "occupation": "Healthcare Support Workers, All Other",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "29-2092.00",
+   "occupation": "Hearing Aid Specialists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "51-4191.00",
+   "occupation": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "49-9021.01",
+   "occupation": "Heating and Air Conditioning Mechanics and Installers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "49-9021.00",
+   "occupation": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "53-3032.00",
+   "occupation": "Heavy and Tractor-Trailer Truck Drivers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "47-3019.00",
+   "occupation": "Helpers, Construction Trades, All Other",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-3011.00",
+   "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-3012.00",
+   "occupation": "Helpers--Carpenters",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-3013.00",
+   "occupation": "Helpers--Electricians",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-5081.00",
+   "occupation": "Helpers--Extraction Workers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "49-9098.00",
+   "occupation": "Helpers--Installation, Maintenance, and Repair Workers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "47-3014.00",
+   "occupation": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-3015.00",
+   "occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-9198.00",
+   "occupation": "Helpers--Production Workers",
+   "group": "Production"
+ },
+ {
+   "id": "47-3016.00",
+   "occupation": "Helpers--Roofers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-4051.00",
+   "occupation": "Highway Maintenance Workers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "19-3093.00",
+   "occupation": "Historians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "25-1125.00",
+   "occupation": "History Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "29-2011.03",
+   "occupation": "Histotechnologists and Histologic Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "53-7041.00",
+   "occupation": "Hoist and Winch Operators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "49-9031.00",
+   "occupation": "Home Appliance Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "25-1192.00",
+   "occupation": "Home Economics Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "31-1011.00",
+   "occupation": "Home Health Aides",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "29-1069.03",
+   "occupation": "Hospitalists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "35-9031.00",
+   "occupation": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "43-4081.00",
+   "occupation": "Hotel, Motel, and Resort Desk Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "17-2112.01",
+   "occupation": "Human Factors Engineers and Ergonomists",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "43-4161.00",
+   "occupation": "Human Resources Assistants, Except Payroll and Timekeeping",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "11-3121.00",
+   "occupation": "Human Resources Managers",
+   "group": "Management"
+ },
+ {
+   "id": "13-1071.00",
+   "occupation": "Human Resources Specialists",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "45-3021.00",
+   "occupation": "Hunters and Trappers",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "51-8099.04",
+   "occupation": "Hydroelectric Plant Technicians",
+   "group": "Production"
+ },
+ {
+   "id": "11-3051.06",
+   "occupation": "Hydroelectric Production Managers",
+   "group": "Management"
+ },
+ {
+   "id": "19-2043.00",
+   "occupation": "Hydrologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "33-3021.05",
+   "occupation": "Immigration and Customs Inspectors",
+   "group": "Protective Service"
+ },
+ {
+   "id": "19-2041.03",
+   "occupation": "Industrial Ecologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "17-3026.00",
+   "occupation": "Industrial Engineering Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3029.05",
+   "occupation": "Industrial Engineering Technologists",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2112.00",
+   "occupation": "Industrial Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "49-9041.00",
+   "occupation": "Industrial Machinery Mechanics",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "11-3051.00",
+   "occupation": "Industrial Production Managers",
+   "group": "Management"
+ },
+ {
+   "id": "17-2111.01",
+   "occupation": "Industrial Safety and Health Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "53-7051.00",
+   "occupation": "Industrial Truck and Tractor Operators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "19-3032.00",
+   "occupation": "Industrial-Organizational Psychologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "55-3016.00",
+   "occupation": "Infantry",
+   "group": "Military Specific"
+ },
+ {
+   "id": "55-1016.00",
+   "occupation": "Infantry Officers",
+   "group": "Military Specific"
+ },
+ {
+   "id": "15-1121.01",
+   "occupation": "Informatics Nurse Specialists",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "43-4199.00",
+   "occupation": "Information and Record Clerks, All Other",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "15-1122.00",
+   "occupation": "Information Security Analysts",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "15-1199.09",
+   "occupation": "Information Technology Project Managers",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "51-9061.00",
+   "occupation": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+   "group": "Production"
+ },
+ {
+   "id": "49-9099.00",
+   "occupation": "Installation, Maintenance, and Repair Workers, All Other",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "25-9031.00",
+   "occupation": "Instructional Coordinators",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "25-9031.01",
+   "occupation": "Instructional Designers and Technologists",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "47-2131.00",
+   "occupation": "Insulation Workers, Floor, Ceiling, and Wall",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-2132.00",
+   "occupation": "Insulation Workers, Mechanical",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "13-1031.02",
+   "occupation": "Insurance Adjusters, Examiners, and Investigators",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "13-1032.00",
+   "occupation": "Insurance Appraisers, Auto Damage",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "43-9041.00",
+   "occupation": "Insurance Claims and Policy Processing Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-9041.01",
+   "occupation": "Insurance Claims Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-9041.02",
+   "occupation": "Insurance Policy Processing Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "41-3021.00",
+   "occupation": "Insurance Sales Agents",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "13-2053.00",
+   "occupation": "Insurance Underwriters",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "33-3021.06",
+   "occupation": "Intelligence Analysts",
+   "group": "Protective Service"
+ },
+ {
+   "id": "27-1025.00",
+   "occupation": "Interior Designers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "29-1063.00",
+   "occupation": "Internists, General",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "27-3091.00",
+   "occupation": "Interpreters and Translators",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "43-4111.00",
+   "occupation": "Interviewers, Except Eligibility and Loan",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "11-9199.03",
+   "occupation": "Investment Fund Managers",
+   "group": "Management"
+ },
+ {
+   "id": "13-2099.03",
+   "occupation": "Investment Underwriters",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "37-2011.00",
+   "occupation": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+   "group": "Building and Grounds Cleaning and Maintenance"
+ },
+ {
+   "id": "51-9071.01",
+   "occupation": "Jewelers",
+   "group": "Production"
+ },
+ {
+   "id": "51-9071.00",
+   "occupation": "Jewelers and Precious Stone and Metal Workers",
+   "group": "Production"
+ },
+ {
+   "id": "23-1023.00",
+   "occupation": "Judges, Magistrate Judges, and Magistrates",
+   "group": "Legal"
+ },
+ {
+   "id": "23-1012.00",
+   "occupation": "Judicial Law Clerks",
+   "group": "Legal"
+ },
+ {
+   "id": "25-2012.00",
+   "occupation": "Kindergarten Teachers, Except Special Education",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "13-1075.00",
+   "occupation": "Labor Relations Specialists",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "53-7062.00",
+   "occupation": "Laborers and Freight, Stock, and Material Movers, Hand",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "17-1012.00",
+   "occupation": "Landscape Architects",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "37-3011.00",
+   "occupation": "Landscaping and Groundskeeping Workers",
+   "group": "Building and Grounds Cleaning and Maintenance"
+ },
+ {
+   "id": "51-4034.00",
+   "occupation": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "51-6011.00",
+   "occupation": "Laundry and Dry-Cleaning Workers",
+   "group": "Production"
+ },
+ {
+   "id": "25-1112.00",
+   "occupation": "Law Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "23-1011.00",
+   "occupation": "Lawyers",
+   "group": "Legal"
+ },
+ {
+   "id": "51-4192.00",
+   "occupation": "Layout Workers, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "43-6012.00",
+   "occupation": "Legal Secretaries",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "23-2099.00",
+   "occupation": "Legal Support Workers, All Other",
+   "group": "Legal"
+ },
+ {
+   "id": "11-1031.00",
+   "occupation": "Legislators",
+   "group": "Management"
+ },
+ {
+   "id": "25-4021.00",
+   "occupation": "Librarians",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "43-4121.00",
+   "occupation": "Library Assistants, Clerical",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "25-1082.00",
+   "occupation": "Library Science Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "25-4031.00",
+   "occupation": "Library Technicians",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "43-4031.03",
+   "occupation": "License Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "29-2061.00",
+   "occupation": "Licensed Practical and Licensed Vocational Nurses",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "13-1041.02",
+   "occupation": "Licensing Examiners and Inspectors",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "19-1099.00",
+   "occupation": "Life Scientists, All Other",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-4099.00",
+   "occupation": "Life, Physical, and Social Science Technicians, All Other",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "33-9092.00",
+   "occupation": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+   "group": "Protective Service"
+ },
+ {
+   "id": "53-3033.00",
+   "occupation": "Light Truck or Delivery Services Drivers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "53-7033.00",
+   "occupation": "Loading Machine Operators, Underground Mining",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "13-2071.01",
+   "occupation": "Loan Counselors",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "43-4131.00",
+   "occupation": "Loan Interviewers and Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "13-2072.00",
+   "occupation": "Loan Officers",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "39-3093.00",
+   "occupation": "Locker Room, Coatroom, and Dressing Room Attendants",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "49-9094.00",
+   "occupation": "Locksmiths and Safe Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "53-4011.00",
+   "occupation": "Locomotive Engineers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "53-4012.00",
+   "occupation": "Locomotive Firers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "11-9081.00",
+   "occupation": "Lodging Managers",
+   "group": "Management"
+ },
+ {
+   "id": "45-4023.00",
+   "occupation": "Log Graders and Scalers",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "45-4022.00",
+   "occupation": "Logging Equipment Operators",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "45-4029.00",
+   "occupation": "Logging Workers, All Other",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "13-1081.00",
+   "occupation": "Logisticians",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "13-1081.02",
+   "occupation": "Logistics Analysts",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "13-1081.01",
+   "occupation": "Logistics Engineers",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "11-3071.03",
+   "occupation": "Logistics Managers",
+   "group": "Management"
+ },
+ {
+   "id": "11-9199.08",
+   "occupation": "Loss Prevention Managers",
+   "group": "Management"
+ },
+ {
+   "id": "29-1122.01",
+   "occupation": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "53-7063.00",
+   "occupation": "Machine Feeders and Offbearers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "51-4041.00",
+   "occupation": "Machinists",
+   "group": "Production"
+ },
+ {
+   "id": "29-2035.00",
+   "occupation": "Magnetic Resonance Imaging Technologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "37-2012.00",
+   "occupation": "Maids and Housekeeping Cleaners",
+   "group": "Building and Grounds Cleaning and Maintenance"
+ },
+ {
+   "id": "43-9051.00",
+   "occupation": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "49-9071.00",
+   "occupation": "Maintenance and Repair Workers, General",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "49-9043.00",
+   "occupation": "Maintenance Workers, Machinery",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "39-5091.00",
+   "occupation": "Makeup Artists, Theatrical and Performance",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "13-1111.00",
+   "occupation": "Management Analysts",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "11-9199.00",
+   "occupation": "Managers, All Other",
+   "group": "Management"
+ },
+ {
+   "id": "39-5092.00",
+   "occupation": "Manicurists and Pedicurists",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "49-9095.00",
+   "occupation": "Manufactured Building and Mobile Home Installers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "17-3029.06",
+   "occupation": "Manufacturing Engineering Technologists",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2199.04",
+   "occupation": "Manufacturing Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3029.09",
+   "occupation": "Manufacturing Production Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3031.02",
+   "occupation": "Mapping Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2121.02",
+   "occupation": "Marine Architects",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2121.01",
+   "occupation": "Marine Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2121.00",
+   "occupation": "Marine Engineers and Naval Architects",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "13-1161.00",
+   "occupation": "Market Research Analysts and Marketing Specialists",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "11-2021.00",
+   "occupation": "Marketing Managers",
+   "group": "Management"
+ },
+ {
+   "id": "43-5081.02",
+   "occupation": "Marking Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "21-1013.00",
+   "occupation": "Marriage and Family Therapists",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "31-9011.00",
+   "occupation": "Massage Therapists",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "53-7199.00",
+   "occupation": "Material Moving Workers, All Other",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "17-2131.00",
+   "occupation": "Materials Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "19-2032.00",
+   "occupation": "Materials Scientists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "53-5021.02",
+   "occupation": "Mates- Ship, Boat, and Barge",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "15-2099.00",
+   "occupation": "Mathematical Science Occupations, All Other",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "25-1022.00",
+   "occupation": "Mathematical Science Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "15-2091.00",
+   "occupation": "Mathematical Technicians",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "15-2021.00",
+   "occupation": "Mathematicians",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "51-3022.00",
+   "occupation": "Meat, Poultry, and Fish Cutters and Trimmers",
+   "group": "Production"
+ },
+ {
+   "id": "49-9011.00",
+   "occupation": "Mechanical Door Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "17-3013.00",
+   "occupation": "Mechanical Drafters",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3027.00",
+   "occupation": "Mechanical Engineering Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3029.07",
+   "occupation": "Mechanical Engineering Technologists",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2141.00",
+   "occupation": "Mechanical Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-2199.05",
+   "occupation": "Mechatronics Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "27-4099.00",
+   "occupation": "Media and Communication Equipment Workers, All Other",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "27-3099.00",
+   "occupation": "Media and Communication Workers, All Other",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "29-2012.00",
+   "occupation": "Medical and Clinical Laboratory Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-2011.00",
+   "occupation": "Medical and Clinical Laboratory Technologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "11-9111.00",
+   "occupation": "Medical and Health Services Managers",
+   "group": "Management"
+ },
+ {
+   "id": "51-9082.00",
+   "occupation": "Medical Appliance Technicians",
+   "group": "Production"
+ },
+ {
+   "id": "31-9092.00",
+   "occupation": "Medical Assistants",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "31-9093.00",
+   "occupation": "Medical Equipment Preparers",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "49-9062.00",
+   "occupation": "Medical Equipment Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "29-2071.00",
+   "occupation": "Medical Records and Health Information Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "19-1042.00",
+   "occupation": "Medical Scientists, Except Epidemiologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "43-6013.00",
+   "occupation": "Medical Secretaries",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "31-9094.00",
+   "occupation": "Medical Transcriptionists",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "13-1121.00",
+   "occupation": "Meeting, Convention, and Event Planners",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "21-1023.00",
+   "occupation": "Mental Health and Substance Abuse Social Workers",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "21-1014.00",
+   "occupation": "Mental Health Counselors",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "27-1026.00",
+   "occupation": "Merchandise Displayers and Window Trimmers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "51-4199.00",
+   "occupation": "Metal Workers and Plastic Workers, All Other",
+   "group": "Production"
+ },
+ {
+   "id": "51-4051.00",
+   "occupation": "Metal-Refining Furnace Operators and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "43-5041.00",
+   "occupation": "Meter Readers, Utilities",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "11-3051.05",
+   "occupation": "Methane/Landfill Gas Collection System Operators",
+   "group": "Management"
+ },
+ {
+   "id": "51-8099.02",
+   "occupation": "Methane/Landfill Gas Generation System Technicians",
+   "group": "Production"
+ },
+ {
+   "id": "19-1022.00",
+   "occupation": "Microbiologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "17-2199.06",
+   "occupation": "Microsystems Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "25-2022.00",
+   "occupation": "Middle School Teachers, Except Special and Career/Technical Education",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "29-9099.01",
+   "occupation": "Midwives",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "55-3019.00",
+   "occupation": "Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",
+   "group": "Military Specific"
+ },
+ {
+   "id": "55-1019.00",
+   "occupation": "Military Officer Special and Tactical Operations Leaders, All Other",
+   "group": "Military Specific"
+ },
+ {
+   "id": "51-4035.00",
+   "occupation": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "49-9044.00",
+   "occupation": "Millwrights",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "47-5042.00",
+   "occupation": "Mine Cutting and Channeling Machine Operators",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "53-7111.00",
+   "occupation": "Mine Shuttle Car Operators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "17-2151.00",
+   "occupation": "Mining and Geological Engineers, Including Mining Safety Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "47-5049.00",
+   "occupation": "Mining Machine Operators, All Other",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-9023.00",
+   "occupation": "Mixing and Blending Machine Setters, Operators, and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "49-3042.00",
+   "occupation": "Mobile Heavy Equipment Mechanics, Except Engines",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "51-4061.00",
+   "occupation": "Model Makers, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "51-7031.00",
+   "occupation": "Model Makers, Wood",
+   "group": "Production"
+ },
+ {
+   "id": "41-9012.00",
+   "occupation": "Models",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "51-9195.00",
+   "occupation": "Molders, Shapers, and Casters, Except Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "51-9195.07",
+   "occupation": "Molding and Casting Workers",
+   "group": "Production"
+ },
+ {
+   "id": "51-4072.00",
+   "occupation": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "19-1029.02",
+   "occupation": "Molecular and Cellular Biologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "39-4031.00",
+   "occupation": "Morticians, Undertakers, and Funeral Directors",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "39-3021.00",
+   "occupation": "Motion Picture Projectionists",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "53-3099.00",
+   "occupation": "Motor Vehicle Operators, All Other",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "49-3051.00",
+   "occupation": "Motorboat Mechanics and Service Technicians",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "53-5022.00",
+   "occupation": "Motorboat Operators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "49-3052.00",
+   "occupation": "Motorcycle Mechanics",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "27-1014.00",
+   "occupation": "Multimedia Artists and Animators",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "51-4081.00",
+   "occupation": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "43-4031.02",
+   "occupation": "Municipal Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "33-1021.01",
+   "occupation": "Municipal Fire Fighting and Prevention Supervisors",
+   "group": "Protective Service"
+ },
+ {
+   "id": "33-2011.01",
+   "occupation": "Municipal Firefighters",
+   "group": "Protective Service"
+ },
+ {
+   "id": "25-4013.00",
+   "occupation": "Museum Technicians and Conservators",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "27-2041.04",
+   "occupation": "Music Composers and Arrangers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "27-2041.01",
+   "occupation": "Music Directors",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "27-2041.00",
+   "occupation": "Music Directors and Composers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "29-1125.02",
+   "occupation": "Music Therapists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "49-9063.00",
+   "occupation": "Musical Instrument Repairers and Tuners",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "27-2042.00",
+   "occupation": "Musicians and Singers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "27-2042.02",
+   "occupation": "Musicians, Instrumental",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "39-9011.01",
+   "occupation": "Nannies",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "17-2199.09",
+   "occupation": "Nanosystems Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3029.12",
+   "occupation": "Nanotechnology Engineering Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3029.11",
+   "occupation": "Nanotechnology Engineering Technologists",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "11-9121.00",
+   "occupation": "Natural Sciences Managers",
+   "group": "Management"
+ },
+ {
+   "id": "29-1199.04",
+   "occupation": "Naturopathic Physicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "15-1142.00",
+   "occupation": "Network and Computer Systems Administrators",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "29-2099.01",
+   "occupation": "Neurodiagnostic Technologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1069.04",
+   "occupation": "Neurologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "19-3039.01",
+   "occupation": "Neuropsychologists and Clinical Neuropsychologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "43-4141.00",
+   "occupation": "New Accounts Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "17-3029.01",
+   "occupation": "Non-Destructive Testing Specialists",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "39-2021.00",
+   "occupation": "Nonfarm Animal Caretakers",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "17-2161.00",
+   "occupation": "Nuclear Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "19-4051.01",
+   "occupation": "Nuclear Equipment Operation Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "29-1069.05",
+   "occupation": "Nuclear Medicine Physicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-2033.00",
+   "occupation": "Nuclear Medicine Technologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "19-4051.02",
+   "occupation": "Nuclear Monitoring Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "51-8011.00",
+   "occupation": "Nuclear Power Reactor Operators",
+   "group": "Production"
+ },
+ {
+   "id": "19-4051.00",
+   "occupation": "Nuclear Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "29-1151.00",
+   "occupation": "Nurse Anesthetists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1161.00",
+   "occupation": "Nurse Midwives",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1171.00",
+   "occupation": "Nurse Practitioners",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "11-9013.01",
+   "occupation": "Nursery and Greenhouse Managers",
+   "group": "Management"
+ },
+ {
+   "id": "45-2092.01",
+   "occupation": "Nursery Workers",
+   "group": "Farming, Fishing, and Forestry"
+ },
+ {
+   "id": "31-1014.00",
+   "occupation": "Nursing Assistants",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "25-1072.00",
+   "occupation": "Nursing Instructors and Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "29-1064.00",
+   "occupation": "Obstetricians and Gynecologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-9011.00",
+   "occupation": "Occupational Health and Safety Specialists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-9012.00",
+   "occupation": "Occupational Health and Safety Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1122.00",
+   "occupation": "Occupational Therapists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "31-2012.00",
+   "occupation": "Occupational Therapy Aides",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "31-2011.00",
+   "occupation": "Occupational Therapy Assistants",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "43-9199.00",
+   "occupation": "Office and Administrative Support Workers, All Other",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-9061.00",
+   "occupation": "Office Clerks, General",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-9071.00",
+   "occupation": "Office Machine Operators, Except Computer",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "13-1199.06",
+   "occupation": "Online Merchants",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "47-2073.00",
+   "occupation": "Operating Engineers and Other Construction Equipment Operators",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "15-2031.00",
+   "occupation": "Operations Research Analysts",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "51-9083.00",
+   "occupation": "Ophthalmic Laboratory Technicians",
+   "group": "Production"
+ },
+ {
+   "id": "29-2057.00",
+   "occupation": "Ophthalmic Medical Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-2099.05",
+   "occupation": "Ophthalmic Medical Technologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1069.06",
+   "occupation": "Ophthalmologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-2081.00",
+   "occupation": "Opticians, Dispensing",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1041.00",
+   "occupation": "Optometrists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1022.00",
+   "occupation": "Oral and Maxillofacial Surgeons",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "43-4151.00",
+   "occupation": "Order Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-5081.04",
+   "occupation": "Order Fillers, Wholesale and Retail Sales",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "31-1015.00",
+   "occupation": "Orderlies",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "29-1023.00",
+   "occupation": "Orthodontists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1199.05",
+   "occupation": "Orthoptists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-2091.00",
+   "occupation": "Orthotists and Prosthetists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "49-3053.00",
+   "occupation": "Outdoor Power Equipment and Other Small Engine Mechanics",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "51-9111.00",
+   "occupation": "Packaging and Filling Machine Operators and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "53-7064.00",
+   "occupation": "Packers and Packagers, Hand",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "47-2141.00",
+   "occupation": "Painters, Construction and Maintenance",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-9122.00",
+   "occupation": "Painters, Transportation Equipment",
+   "group": "Production"
+ },
+ {
+   "id": "51-9123.00",
+   "occupation": "Painting, Coating, and Decorating Workers",
+   "group": "Production"
+ },
+ {
+   "id": "51-9196.00",
+   "occupation": "Paper Goods Machine Setters, Operators, and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "47-2142.00",
+   "occupation": "Paperhangers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "23-2011.00",
+   "occupation": "Paralegals and Legal Assistants",
+   "group": "Legal"
+ },
+ {
+   "id": "19-1031.03",
+   "occupation": "Park Naturalists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "33-3041.00",
+   "occupation": "Parking Enforcement Workers",
+   "group": "Protective Service"
+ },
+ {
+   "id": "53-6021.00",
+   "occupation": "Parking Lot Attendants",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "41-2022.00",
+   "occupation": "Parts Salespersons",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "29-1069.07",
+   "occupation": "Pathologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "43-4051.03",
+   "occupation": "Patient Representatives",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "51-4062.00",
+   "occupation": "Patternmakers, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "51-7032.00",
+   "occupation": "Patternmakers, Wood",
+   "group": "Production"
+ },
+ {
+   "id": "47-2071.00",
+   "occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "43-3051.00",
+   "occupation": "Payroll and Timekeeping Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "29-1065.00",
+   "occupation": "Pediatricians, General",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "39-9021.00",
+   "occupation": "Personal Care Aides",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "39-9099.00",
+   "occupation": "Personal Care and Service Workers, All Other",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "13-2052.00",
+   "occupation": "Personal Financial Advisors",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "37-2021.00",
+   "occupation": "Pest Control Workers",
+   "group": "Building and Grounds Cleaning and Maintenance"
+ },
+ {
+   "id": "37-3012.00",
+   "occupation": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+   "group": "Building and Grounds Cleaning and Maintenance"
+ },
+ {
+   "id": "17-2171.00",
+   "occupation": "Petroleum Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "51-8093.00",
+   "occupation": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+   "group": "Production"
+ },
+ {
+   "id": "29-1051.00",
+   "occupation": "Pharmacists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "31-9095.00",
+   "occupation": "Pharmacy Aides",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "29-2052.00",
+   "occupation": "Pharmacy Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "25-1126.00",
+   "occupation": "Philosophy and Religion Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "31-9097.00",
+   "occupation": "Phlebotomists",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "27-4021.00",
+   "occupation": "Photographers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "51-9151.00",
+   "occupation": "Photographic Process Workers and Processing Machine Operators",
+   "group": "Production"
+ },
+ {
+   "id": "17-2199.07",
+   "occupation": "Photonics Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3029.08",
+   "occupation": "Photonics Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "29-1069.08",
+   "occupation": "Physical Medicine and Rehabilitation Physicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "19-2099.00",
+   "occupation": "Physical Scientists, All Other",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "31-2022.00",
+   "occupation": "Physical Therapist Aides",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "31-2021.00",
+   "occupation": "Physical Therapist Assistants",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "29-1123.00",
+   "occupation": "Physical Therapists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1071.00",
+   "occupation": "Physician Assistants",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1069.00",
+   "occupation": "Physicians and Surgeons, All Other",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "19-2012.00",
+   "occupation": "Physicists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "25-1054.00",
+   "occupation": "Physics Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "47-2072.00",
+   "occupation": "Pile-Driver Operators",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "53-5021.03",
+   "occupation": "Pilots, Ship",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "47-2152.01",
+   "occupation": "Pipe Fitters and Steamfitters",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-2151.00",
+   "occupation": "Pipelayers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-8099.00",
+   "occupation": "Plant and System Operators, All Other",
+   "group": "Production"
+ },
+ {
+   "id": "47-2161.00",
+   "occupation": "Plasterers and Stucco Masons",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-4193.00",
+   "occupation": "Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "47-2152.02",
+   "occupation": "Plumbers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-2152.00",
+   "occupation": "Plumbers, Pipefitters, and Steamfitters",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "29-1081.00",
+   "occupation": "Podiatrists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "27-3043.05",
+   "occupation": "Poets, Lyricists and Creative Writers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "33-3051.00",
+   "occupation": "Police and Sheriff's Patrol Officers",
+   "group": "Protective Service"
+ },
+ {
+   "id": "33-3021.01",
+   "occupation": "Police Detectives",
+   "group": "Protective Service"
+ },
+ {
+   "id": "33-3021.02",
+   "occupation": "Police Identification and Records Officers",
+   "group": "Protective Service"
+ },
+ {
+   "id": "33-3051.01",
+   "occupation": "Police Patrol Officers",
+   "group": "Protective Service"
+ },
+ {
+   "id": "43-5031.00",
+   "occupation": "Police, Fire, and Ambulance Dispatchers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "25-1065.00",
+   "occupation": "Political Science Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "19-3094.00",
+   "occupation": "Political Scientists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "43-5051.00",
+   "occupation": "Postal Service Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-5052.00",
+   "occupation": "Postal Service Mail Carriers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-5053.00",
+   "occupation": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "11-9131.00",
+   "occupation": "Postmasters and Mail Superintendents",
+   "group": "Management"
+ },
+ {
+   "id": "25-1199.00",
+   "occupation": "Postsecondary Teachers, All Other",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "51-9195.05",
+   "occupation": "Potters, Manufacturing",
+   "group": "Production"
+ },
+ {
+   "id": "51-4052.00",
+   "occupation": "Pourers and Casters, Metal",
+   "group": "Production"
+ },
+ {
+   "id": "51-8012.00",
+   "occupation": "Power Distributors and Dispatchers",
+   "group": "Production"
+ },
+ {
+   "id": "51-8013.00",
+   "occupation": "Power Plant Operators",
+   "group": "Production"
+ },
+ {
+   "id": "51-9071.07",
+   "occupation": "Precious Metal Workers",
+   "group": "Production"
+ },
+ {
+   "id": "19-4099.02",
+   "occupation": "Precision Agriculture Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "49-9069.00",
+   "occupation": "Precision Instrument and Equipment Repairers, All Other",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "51-5111.00",
+   "occupation": "Prepress Technicians and Workers",
+   "group": "Production"
+ },
+ {
+   "id": "25-2011.00",
+   "occupation": "Preschool Teachers, Except Special Education",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "51-6021.00",
+   "occupation": "Pressers, Textile, Garment, and Related Materials",
+   "group": "Production"
+ },
+ {
+   "id": "29-1069.09",
+   "occupation": "Preventive Medicine Physicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "51-5113.00",
+   "occupation": "Print Binding and Finishing Workers",
+   "group": "Production"
+ },
+ {
+   "id": "51-5112.00",
+   "occupation": "Printing Press Operators",
+   "group": "Production"
+ },
+ {
+   "id": "33-9021.00",
+   "occupation": "Private Detectives and Investigators",
+   "group": "Protective Service"
+ },
+ {
+   "id": "21-1092.00",
+   "occupation": "Probation Officers and Correctional Treatment Specialists",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "43-3061.00",
+   "occupation": "Procurement Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "27-2012.01",
+   "occupation": "Producers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "27-2012.00",
+   "occupation": "Producers and Directors",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "17-2111.03",
+   "occupation": "Product Safety Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "51-9199.00",
+   "occupation": "Production Workers, All Other",
+   "group": "Production"
+ },
+ {
+   "id": "43-5061.00",
+   "occupation": "Production, Planning, and Expediting Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "27-2012.03",
+   "occupation": "Program Directors",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "43-9081.00",
+   "occupation": "Proofreaders and Copy Markers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "11-9141.00",
+   "occupation": "Property, Real Estate, and Community Association Managers",
+   "group": "Management"
+ },
+ {
+   "id": "29-1024.00",
+   "occupation": "Prosthodontists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "33-9099.00",
+   "occupation": "Protective Service Workers, All Other",
+   "group": "Protective Service"
+ },
+ {
+   "id": "31-1013.00",
+   "occupation": "Psychiatric Aides",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "29-2053.00",
+   "occupation": "Psychiatric Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1066.00",
+   "occupation": "Psychiatrists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "19-3039.00",
+   "occupation": "Psychologists, All Other",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "25-1066.00",
+   "occupation": "Psychology Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "27-3012.00",
+   "occupation": "Public Address System and Other Announcers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "11-2031.00",
+   "occupation": "Public Relations and Fundraising Managers",
+   "group": "Management"
+ },
+ {
+   "id": "27-3031.00",
+   "occupation": "Public Relations Specialists",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "53-7072.00",
+   "occupation": "Pump Operators, Except Wellhead Pumpers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "13-1023.00",
+   "occupation": "Purchasing Agents, Except Wholesale, Retail, and Farm Products",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "11-3061.00",
+   "occupation": "Purchasing Managers",
+   "group": "Management"
+ },
+ {
+   "id": "19-4099.01",
+   "occupation": "Quality Control Analysts",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "11-3051.01",
+   "occupation": "Quality Control Systems Managers",
+   "group": "Management"
+ },
+ {
+   "id": "55-3017.00",
+   "occupation": "Radar and Sonar Technicians",
+   "group": "Military Specific"
+ },
+ {
+   "id": "29-1124.00",
+   "occupation": "Radiation Therapists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "27-3011.00",
+   "occupation": "Radio and Television Announcers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "17-2072.01",
+   "occupation": "Radio Frequency Identification Device Specialists",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "49-2021.01",
+   "occupation": "Radio Mechanics",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "27-4013.00",
+   "occupation": "Radio Operators",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "49-2021.00",
+   "occupation": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "29-2099.06",
+   "occupation": "Radiologic Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-2034.00",
+   "occupation": "Radiologic Technologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-1069.10",
+   "occupation": "Radiologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "49-3043.00",
+   "occupation": "Rail Car Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "53-4099.00",
+   "occupation": "Rail Transportation Workers, All Other",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "53-4013.00",
+   "occupation": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "47-4061.00",
+   "occupation": "Rail-Track Laying and Maintenance Equipment Operators",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "53-4021.00",
+   "occupation": "Railroad Brake, Signal, and Switch Operators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "53-4031.00",
+   "occupation": "Railroad Conductors and Yardmasters",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "19-1031.02",
+   "occupation": "Range Managers",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "41-9021.00",
+   "occupation": "Real Estate Brokers",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "41-9022.00",
+   "occupation": "Real Estate Sales Agents",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "43-4171.00",
+   "occupation": "Receptionists and Information Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "25-1193.00",
+   "occupation": "Recreation and Fitness Studies Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "39-9032.00",
+   "occupation": "Recreation Workers",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "29-1125.00",
+   "occupation": "Recreational Therapists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "49-3092.00",
+   "occupation": "Recreational Vehicle Service Technicians",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "51-9199.01",
+   "occupation": "Recycling and Reclamation Workers",
+   "group": "Production"
+ },
+ {
+   "id": "53-1021.01",
+   "occupation": "Recycling Coordinators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "49-9045.00",
+   "occupation": "Refractory Materials Repairers, Except Brickmasons",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "49-9021.02",
+   "occupation": "Refrigeration Mechanics and Installers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "53-7081.00",
+   "occupation": "Refuse and Recyclable Material Collectors",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "29-1141.00",
+   "occupation": "Registered Nurses",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "11-9199.01",
+   "occupation": "Regulatory Affairs Managers",
+   "group": "Management"
+ },
+ {
+   "id": "13-1041.07",
+   "occupation": "Regulatory Affairs Specialists",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "21-1015.00",
+   "occupation": "Rehabilitation Counselors",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "47-2171.00",
+   "occupation": "Reinforcing Iron and Rebar Workers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "21-2099.00",
+   "occupation": "Religious Workers, All Other",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "19-2099.01",
+   "occupation": "Remote Sensing Scientists and Technologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-4099.03",
+   "occupation": "Remote Sensing Technicians",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "27-3022.00",
+   "occupation": "Reporters and Correspondents",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "43-4181.00",
+   "occupation": "Reservation and Transportation Ticket Agents and Travel Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "39-9041.00",
+   "occupation": "Residential Advisors",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "29-1126.00",
+   "occupation": "Respiratory Therapists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-2054.00",
+   "occupation": "Respiratory Therapy Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "33-9099.02",
+   "occupation": "Retail Loss Prevention Specialists",
+   "group": "Protective Service"
+ },
+ {
+   "id": "41-2031.00",
+   "occupation": "Retail Salespersons",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "49-9096.00",
+   "occupation": "Riggers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "13-2099.02",
+   "occupation": "Risk Management Specialists",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "17-2199.08",
+   "occupation": "Robotics Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3024.01",
+   "occupation": "Robotics Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "47-5051.00",
+   "occupation": "Rock Splitters, Quarry",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-4023.00",
+   "occupation": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+   "group": "Production"
+ },
+ {
+   "id": "47-5061.00",
+   "occupation": "Roof Bolters, Mining",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-2181.00",
+   "occupation": "Roofers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-5012.00",
+   "occupation": "Rotary Drill Operators, Oil and Gas",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-2031.02",
+   "occupation": "Rough Carpenters",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-5071.00",
+   "occupation": "Roustabouts, Oil and Gas",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "53-5011.00",
+   "occupation": "Sailors and Marine Oilers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "41-3031.02",
+   "occupation": "Sales Agents, Financial Services",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "41-3031.01",
+   "occupation": "Sales Agents, Securities and Commodities",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "41-9099.00",
+   "occupation": "Sales and Related Workers, All Other",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "41-9031.00",
+   "occupation": "Sales Engineers",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "11-2022.00",
+   "occupation": "Sales Managers",
+   "group": "Management"
+ },
+ {
+   "id": "41-3099.00",
+   "occupation": "Sales Representatives, Services, All Other",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "41-4012.00",
+   "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "41-4011.00",
+   "occupation": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "51-7041.00",
+   "occupation": "Sawing Machine Setters, Operators, and Tenders, Wood",
+   "group": "Production"
+ },
+ {
+   "id": "19-3031.01",
+   "occupation": "School Psychologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "15-1199.10",
+   "occupation": "Search Marketing Strategists",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "25-2031.00",
+   "occupation": "Secondary School Teachers, Except Special and Career/Technical Education",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "43-6014.00",
+   "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "41-3031.03",
+   "occupation": "Securities and Commodities Traders",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "41-3031.00",
+   "occupation": "Securities, Commodities, and Financial Services Sales Agents",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "49-2098.00",
+   "occupation": "Security and Fire Alarm Systems Installers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "33-9032.00",
+   "occupation": "Security Guards",
+   "group": "Protective Service"
+ },
+ {
+   "id": "13-1199.02",
+   "occupation": "Security Management Specialists",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "11-9199.07",
+   "occupation": "Security Managers",
+   "group": "Management"
+ },
+ {
+   "id": "47-4091.00",
+   "occupation": "Segmental Pavers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "25-3021.00",
+   "occupation": "Self-Enrichment Education Teachers",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "51-9141.00",
+   "occupation": "Semiconductor Processors",
+   "group": "Production"
+ },
+ {
+   "id": "51-9012.00",
+   "occupation": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "47-4071.00",
+   "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "47-5013.00",
+   "occupation": "Service Unit Operators, Oil, Gas, and Mining",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "27-1027.00",
+   "occupation": "Set and Exhibit Designers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "51-6051.00",
+   "occupation": "Sewers, Hand",
+   "group": "Production"
+ },
+ {
+   "id": "51-6031.00",
+   "occupation": "Sewing Machine Operators",
+   "group": "Production"
+ },
+ {
+   "id": "39-5093.00",
+   "occupation": "Shampooers",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "47-2211.00",
+   "occupation": "Sheet Metal Workers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "33-3051.03",
+   "occupation": "Sheriffs and Deputy Sheriffs",
+   "group": "Protective Service"
+ },
+ {
+   "id": "53-5021.01",
+   "occupation": "Ship and Boat Captains",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "53-5031.00",
+   "occupation": "Ship Engineers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "43-5071.00",
+   "occupation": "Shipping, Receiving, and Traffic Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "51-6041.00",
+   "occupation": "Shoe and Leather Workers and Repairers",
+   "group": "Production"
+ },
+ {
+   "id": "51-6042.00",
+   "occupation": "Shoe Machine Operators and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "49-9097.00",
+   "occupation": "Signal and Track Switch Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "27-2042.01",
+   "occupation": "Singers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "39-5094.00",
+   "occupation": "Skincare Specialists",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "51-3023.00",
+   "occupation": "Slaughterers and Meat Packers",
+   "group": "Production"
+ },
+ {
+   "id": "39-1012.00",
+   "occupation": "Slot Supervisors",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "11-9151.00",
+   "occupation": "Social and Community Service Managers",
+   "group": "Management"
+ },
+ {
+   "id": "21-1093.00",
+   "occupation": "Social and Human Service Assistants",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "19-4061.00",
+   "occupation": "Social Science Research Assistants",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "25-1069.00",
+   "occupation": "Social Sciences Teachers, Postsecondary, All Other",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "19-3099.00",
+   "occupation": "Social Scientists and Related Workers, All Other",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "25-1113.00",
+   "occupation": "Social Work Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "21-1029.00",
+   "occupation": "Social Workers, All Other",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "19-3041.00",
+   "occupation": "Sociologists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "25-1067.00",
+   "occupation": "Sociology Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "15-1132.00",
+   "occupation": "Software Developers, Applications",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "15-1133.00",
+   "occupation": "Software Developers, Systems Software",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "15-1199.01",
+   "occupation": "Software Quality Assurance Engineers and Testers",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "19-1013.00",
+   "occupation": "Soil and Plant Scientists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "19-1031.01",
+   "occupation": "Soil and Water Conservationists",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "47-1011.03",
+   "occupation": "Solar Energy Installation Managers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "17-2199.11",
+   "occupation": "Solar Energy Systems Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "47-2231.00",
+   "occupation": "Solar Photovoltaic Installers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "41-4011.07",
+   "occupation": "Solar Sales Representatives and Assessors",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "47-4099.02",
+   "occupation": "Solar Thermal Installers and Technicians",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-4121.07",
+   "occupation": "Solderers and Brazers",
+   "group": "Production"
+ },
+ {
+   "id": "27-4014.00",
+   "occupation": "Sound Engineering Technicians",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "39-1021.01",
+   "occupation": "Spa Managers",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "25-2059.00",
+   "occupation": "Special Education Teachers, All Other",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "25-2052.00",
+   "occupation": "Special Education Teachers, Kindergarten and Elementary School",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "25-2053.00",
+   "occupation": "Special Education Teachers, Middle School",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "25-2051.00",
+   "occupation": "Special Education Teachers, Preschool",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "25-2054.00",
+   "occupation": "Special Education Teachers, Secondary School",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "55-3018.00",
+   "occupation": "Special Forces",
+   "group": "Military Specific"
+ },
+ {
+   "id": "55-1017.00",
+   "occupation": "Special Forces Officers",
+   "group": "Military Specific"
+ },
+ {
+   "id": "29-1127.00",
+   "occupation": "Speech-Language Pathologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "31-9099.01",
+   "occupation": "Speech-Language Pathology Assistants",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "29-1069.11",
+   "occupation": "Sports Medicine Physicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "43-3021.01",
+   "occupation": "Statement Clerks",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "51-8021.00",
+   "occupation": "Stationary Engineers and Boiler Operators",
+   "group": "Production"
+ },
+ {
+   "id": "43-9111.00",
+   "occupation": "Statistical Assistants",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "15-2041.00",
+   "occupation": "Statisticians",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "43-5081.00",
+   "occupation": "Stock Clerks and Order Fillers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-5081.01",
+   "occupation": "Stock Clerks, Sales Floor",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-5081.03",
+   "occupation": "Stock Clerks- Stockroom, Warehouse, or Storage Yard",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "51-9195.03",
+   "occupation": "Stone Cutters and Carvers, Manufacturing",
+   "group": "Production"
+ },
+ {
+   "id": "47-2022.00",
+   "occupation": "Stonemasons",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "11-3071.02",
+   "occupation": "Storage and Distribution Managers",
+   "group": "Management"
+ },
+ {
+   "id": "47-2221.00",
+   "occupation": "Structural Iron and Steel Workers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-2041.00",
+   "occupation": "Structural Metal Fabricators and Fitters",
+   "group": "Production"
+ },
+ {
+   "id": "21-1011.00",
+   "occupation": "Substance Abuse and Behavioral Disorder Counselors",
+   "group": "Community and Social Service"
+ },
+ {
+   "id": "53-4041.00",
+   "occupation": "Subway and Streetcar Operators",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "11-9199.04",
+   "occupation": "Supply Chain Managers",
+   "group": "Management"
+ },
+ {
+   "id": "29-1067.00",
+   "occupation": "Surgeons",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-2099.07",
+   "occupation": "Surgical Assistants",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "29-2055.00",
+   "occupation": "Surgical Technologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "19-3022.00",
+   "occupation": "Survey Researchers",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "17-3031.00",
+   "occupation": "Surveying and Mapping Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-3031.01",
+   "occupation": "Surveying Technicians",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "17-1022.00",
+   "occupation": "Surveyors",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "13-1199.05",
+   "occupation": "Sustainability Specialists",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "43-2011.00",
+   "occupation": "Switchboard Operators, Including Answering Service",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "51-6052.00",
+   "occupation": "Tailors, Dressmakers, and Custom Sewers",
+   "group": "Production"
+ },
+ {
+   "id": "27-2012.04",
+   "occupation": "Talent Directors",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "53-7121.00",
+   "occupation": "Tank Car, Truck, and Ship Loaders",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "47-2082.00",
+   "occupation": "Tapers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "13-2081.00",
+   "occupation": "Tax Examiners and Collectors, and Revenue Agents",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "13-2082.00",
+   "occupation": "Tax Preparers",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "53-3041.00",
+   "occupation": "Taxi Drivers and Chauffeurs",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "25-9041.00",
+   "occupation": "Teacher Assistants",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "25-3099.00",
+   "occupation": "Teachers and Instructors, All Other",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "51-2092.00",
+   "occupation": "Team Assemblers",
+   "group": "Production"
+ },
+ {
+   "id": "27-2012.05",
+   "occupation": "Technical Directors/Managers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "27-3042.00",
+   "occupation": "Technical Writers",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "15-1143.01",
+   "occupation": "Telecommunications Engineering Specialists",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "49-2022.00",
+   "occupation": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "49-9052.00",
+   "occupation": "Telecommunications Line Installers and Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "41-9041.00",
+   "occupation": "Telemarketers",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "43-2021.00",
+   "occupation": "Telephone Operators",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "43-3071.00",
+   "occupation": "Tellers",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "47-2053.00",
+   "occupation": "Terrazzo Workers and Finishers",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-6061.00",
+   "occupation": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "51-6062.00",
+   "occupation": "Textile Cutting Machine Setters, Operators, and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "51-6063.00",
+   "occupation": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "51-6064.00",
+   "occupation": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "51-6099.00",
+   "occupation": "Textile, Apparel, and Furnishings Workers, All Other",
+   "group": "Production"
+ },
+ {
+   "id": "29-1129.00",
+   "occupation": "Therapists, All Other",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "47-2044.00",
+   "occupation": "Tile and Marble Setters",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "51-2093.00",
+   "occupation": "Timing Device Assemblers and Adjusters",
+   "group": "Production"
+ },
+ {
+   "id": "51-9197.00",
+   "occupation": "Tire Builders",
+   "group": "Production"
+ },
+ {
+   "id": "49-3093.00",
+   "occupation": "Tire Repairers and Changers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "23-2093.00",
+   "occupation": "Title Examiners, Abstractors, and Searchers",
+   "group": "Legal"
+ },
+ {
+   "id": "51-4111.00",
+   "occupation": "Tool and Die Makers",
+   "group": "Production"
+ },
+ {
+   "id": "51-4194.00",
+   "occupation": "Tool Grinders, Filers, and Sharpeners",
+   "group": "Production"
+ },
+ {
+   "id": "39-7011.00",
+   "occupation": "Tour Guides and Escorts",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "53-6041.00",
+   "occupation": "Traffic Technicians",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "11-3131.00",
+   "occupation": "Training and Development Managers",
+   "group": "Management"
+ },
+ {
+   "id": "13-1151.00",
+   "occupation": "Training and Development Specialists",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "33-3052.00",
+   "occupation": "Transit and Railroad Police",
+   "group": "Protective Service"
+ },
+ {
+   "id": "53-6061.00",
+   "occupation": "Transportation Attendants, Except Flight Attendants",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "17-2051.01",
+   "occupation": "Transportation Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "53-6051.00",
+   "occupation": "Transportation Inspectors",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "11-3071.01",
+   "occupation": "Transportation Managers",
+   "group": "Management"
+ },
+ {
+   "id": "19-3099.01",
+   "occupation": "Transportation Planners",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "33-9093.00",
+   "occupation": "Transportation Security Screeners",
+   "group": "Protective Service"
+ },
+ {
+   "id": "53-6051.07",
+   "occupation": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "53-6099.00",
+   "occupation": "Transportation Workers, All Other",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "11-3071.00",
+   "occupation": "Transportation, Storage, and Distribution Managers",
+   "group": "Management"
+ },
+ {
+   "id": "41-3041.00",
+   "occupation": "Travel Agents",
+   "group": "Sales and Related"
+ },
+ {
+   "id": "39-7012.00",
+   "occupation": "Travel Guides",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "11-3031.01",
+   "occupation": "Treasurers and Controllers",
+   "group": "Management"
+ },
+ {
+   "id": "37-3013.00",
+   "occupation": "Tree Trimmers and Pruners",
+   "group": "Building and Grounds Cleaning and Maintenance"
+ },
+ {
+   "id": "25-3099.02",
+   "occupation": "Tutors",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "27-2023.00",
+   "occupation": "Umpires, Referees, and Other Sports Officials",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "51-6093.00",
+   "occupation": "Upholsterers",
+   "group": "Production"
+ },
+ {
+   "id": "19-3051.00",
+   "occupation": "Urban and Regional Planners",
+   "group": "Life, Physical, and Social Science"
+ },
+ {
+   "id": "29-1069.12",
+   "occupation": "Urologists",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "39-3031.00",
+   "occupation": "Ushers, Lobby Attendants, and Ticket Takers",
+   "group": "Personal Care and Service"
+ },
+ {
+   "id": "17-2199.02",
+   "occupation": "Validation Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "29-1131.00",
+   "occupation": "Veterinarians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "31-9096.00",
+   "occupation": "Veterinary Assistants and Laboratory Animal Caretakers",
+   "group": "Healthcare Support"
+ },
+ {
+   "id": "29-2056.00",
+   "occupation": "Veterinary Technologists and Technicians",
+   "group": "Healthcare Practitioners and Technical"
+ },
+ {
+   "id": "15-1199.11",
+   "occupation": "Video Game Designers",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "25-1194.00",
+   "occupation": "Vocational Education Teachers, Postsecondary",
+   "group": "Education, Training, and Library"
+ },
+ {
+   "id": "35-3031.00",
+   "occupation": "Waiters and Waitresses",
+   "group": "Food Preparation and Serving Related"
+ },
+ {
+   "id": "49-9064.00",
+   "occupation": "Watch Repairers",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "51-8031.00",
+   "occupation": "Water and Wastewater Treatment Plant and System Operators",
+   "group": "Production"
+ },
+ {
+   "id": "11-9121.02",
+   "occupation": "Water Resource Specialists",
+   "group": "Management"
+ },
+ {
+   "id": "17-2081.01",
+   "occupation": "Water/Wastewater Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "47-4099.03",
+   "occupation": "Weatherization Installers and Technicians",
+   "group": "Construction and Extraction"
+ },
+ {
+   "id": "15-1199.03",
+   "occupation": "Web Administrators",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "15-1134.00",
+   "occupation": "Web Developers",
+   "group": "Computer and Mathematical"
+ },
+ {
+   "id": "43-5111.00",
+   "occupation": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "51-4121.06",
+   "occupation": "Welders, Cutters, and Welder Fitters",
+   "group": "Production"
+ },
+ {
+   "id": "51-4121.00",
+   "occupation": "Welders, Cutters, Solderers, and Brazers",
+   "group": "Production"
+ },
+ {
+   "id": "51-4122.00",
+   "occupation": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+   "group": "Production"
+ },
+ {
+   "id": "53-7073.00",
+   "occupation": "Wellhead Pumpers",
+   "group": "Transportation and Material Moving"
+ },
+ {
+   "id": "13-1022.00",
+   "occupation": "Wholesale and Retail Buyers, Except Farm Products",
+   "group": "Business and Financial Operations"
+ },
+ {
+   "id": "17-2199.10",
+   "occupation": "Wind Energy Engineers",
+   "group": "Architecture and Engineering"
+ },
+ {
+   "id": "11-9199.09",
+   "occupation": "Wind Energy Operations Managers",
+   "group": "Management"
+ },
+ {
+   "id": "11-9199.10",
+   "occupation": "Wind Energy Project Managers",
+   "group": "Management"
+ },
+ {
+   "id": "49-9081.00",
+   "occupation": "Wind Turbine Service Technicians",
+   "group": "Installation, Maintenance, and Repair"
+ },
+ {
+   "id": "51-7099.00",
+   "occupation": "Woodworkers, All Other",
+   "group": "Production"
+ },
+ {
+   "id": "51-7042.00",
+   "occupation": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+   "group": "Production"
+ },
+ {
+   "id": "43-9022.00",
+   "occupation": "Word Processors and Typists",
+   "group": "Office and Administrative Support"
+ },
+ {
+   "id": "27-3043.00",
+   "occupation": "Writers and Authors",
+   "group": "Arts, Design, Entertainment, Sports, and Media"
+ },
+ {
+   "id": "19-1023.00",
+   "occupation": "Zoologists and Wildlife Biologists",
+   "group": "Life, Physical, and Social Science"
+ }
+]
