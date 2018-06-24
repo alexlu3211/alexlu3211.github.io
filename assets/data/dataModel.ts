@@ -9,6 +9,7 @@ export interface skillInformation{
 	description: string;
 	importance: number;
 	selected: boolean;
+	uuid: string;
 }
 
 export interface gigInformation{
@@ -17,4 +18,13 @@ export interface gigInformation{
 	skills: string[];
 	title: string;
 	url: string;
+}
+
+export interface relatedJobInformation{
+	job_uuid: string;
+	job_title: string;
+	importance: number;
+	level: number; 
+	normalized_job_title: string;
+	score: number;
 }
