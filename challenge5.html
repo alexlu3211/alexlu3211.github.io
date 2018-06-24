@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Challenge 5</title>
+	<style>
+	body{
+		margin: 2%;
+		border: 1px solid black;
+		background-color: #b3b3b3;
+	}
+	#image{
+    	line-height:325px;
+		width: 388px;
+    	height: 325px;
+		border:5px solid black;
+		margin:0 auto;
+    	background-repeat: no-repeat;
+    	color:#FFFFFF;
+    	text-align: center;
+    	background-color: #8e68ff;
+    	background-size: 100%;
+    	margin-bottom:25px;
+    	font-size:150%;
+	}
+	.preview{
+		width:10%;
+		margin-left:17%;
+    	border: 10px solid black;
+	}
+	img{
+		width:95%;
+	}
+	h1{
+		text-align: center;
+	}
+	</style>
+
+	<script>
+		function upDate(previewPic){
+			document.getElementById("image").innerHTML = previewPic.alt;
+			document.getElementById("image").style.backgroundImage = "url('" + previewPic.src + "')" 
+		}
+
+		function unDo(){
+			document.getElementById("image").innerHTML = "Hover or tab over/into an image below.";
+			document.getElementById("image").style.backgroundImage = ""
+			document.getElementById("image").style.backgroundColor = "#8e68ff"
+		}
+	</script>
+</head>
+
+<body>
+	<h1>Challenge 5</h1>
+		<div id = "image">
+			Hover or tab over/into an image below.
+		</div>
+
+		<img class = "preview" 
+			alt = "United States" 
+			src = "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png"
+			onmouseover = upDate(this)
+			onmouseleave = unDo()>
+	
+		<img class = "preview" 
+			alt = "Germany" 
+			src = "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png"
+			onmouseover = upDate(this)
+			onmouseleave = unDo()>
+	
+		<img class = "preview" tabindex = "1" 
+			src = "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg" 
+			alt = "Australia"
+			onmouseover = upDate(this)
+			onmouseleave = unDo()>
+
+		<img class = "preview" 
+			alt = "Euro" 
+			src = "https://res.cloudinary.com/springbok-puzzles-com/image/upload/q_40/q_60/v1411423177/Flag%20Large/60-100-21088-2.jpg"
+			onmouseover = upDate(this)
+			onmouseleave = unDo()>
+
+		<img class = "preview" 
+			alt = "Vietnam" 
+			src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/2000px-Flag_of_Vietnam.svg.png"
+			onmouseover = upDate(this)
+			onmouseleave = unDo()>
+	
+		<img class = "preview" tabindex = "1" 
+			src = "https://cdn.britannica.com/90/7490-004-415899A0.jpg" 
+			alt = "China"
+			onmouseover = upDate(this)
+			onmouseleave = unDo()>
+</body>
+</html>
+	

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>JavaScript Challenges</title>
+    <style>
+      #emailfield{
+        display: none;
+      }
+    </style>
+    
+    <script>
+	function toggleEmail(){
+    
+    if (document.getElementById("emailfield").style.display == "block") 
+      document.getElementById("emailfield").style.display = "none"
+    else 
+      document.getElementById("emailfield").style.display = "block"
+	} 
+    </script>
+  </head>
+  <body>
+    <h1>Challenge One</h1>
+    <form action="challenge2.html">
+      <fieldset>
+        <legend>Email subscriptions</legend>
+        <div id="check">
+          <label>
+            <input type="checkbox" name="subscribe" id="subscribe" onchange="toggleEmail()">
+            Check to toggle the email field.
+          </label>
+        </div>
+
+        <div id="emailfield">
+          <label>
+            Email Address: 
+            <input type="text" name="email" id="email">
+          </label>
+        </div>
+
+        <input type = "submit" value = "Go To Challenge 2">
+      </fieldset>
+    </form>
+  </body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Challenge 4</title>
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <style>
+
+    .errormsg { 
+        font-family: "Oswald";
+    	color:red;
+    	display:none; } 
+    </style>
+    
+    <script>
+    function checkForm(){
+        document.getElementById("nameerrormsg").style.display = "none";
+        document.getElementById("addrerrormsg").style.display = "none";
+
+        var should_return = true;
+
+    	if (document.getElementById("fullname").value.length < 1) {
+            document.getElementById("nameerrormsg").style.display = "block";
+            should_return = false;
+        }
+
+        if (document.getElementById("streetaddr").value.length < 1){
+            document.getElementById("addrerrormsg").style.display = "block"
+            should_return = false;
+        }
+            
+        if (should_return) 
+            return true
+        else
+            return false
+
+    }  
+    </script>
+</head>
+<body>
+    <h1>Challenge 4</h1>
+	<form action="challenge5.html" onsubmit="return checkForm();">
+        <fieldset>
+        <legend>Personal details</legend>
+          <label for="fullname">Full name: </label>
+            <input type="text" name="fullname" id="fullname"><br/>
+            <p class="errormsg" id="nameerrormsg">Please enter your name above!</p>
+
+          <label for ="streetaddr"></label>
+            Street Address:
+            <input type="text" name="streetaddr" id="streetaddr">
+            <p class="errormsg" id="addrerrormsg">Please enter your street address!</p>
+        </fieldset>
+        <input type="submit" value="Submit it!"> 
+    </form>
+</body>
+</html>
